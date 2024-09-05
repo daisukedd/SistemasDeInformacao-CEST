@@ -6,6 +6,11 @@ Este repositório é dedicado às **anotações de aula**, **resolução de exer
 
 📝 Ao final de cada período, pretendo elaborar um resumo destacando minha experiência e os principais aprendizados de cada disciplina. Isso permitirá acompanhar meu progresso e oferecer insights para novos estudantes.
 
+## 📂 Organização dos Arquivos
+
+Para informações detalhadas sobre a nomeação e organização dos arquivos, consulte a **[página de Modelos de Arquivos](./modelos-de-arquivos.md).**
+
+
 ## Estrutura do Repositório 📂
 
 | **Disciplina**                                                                                      | **Dificuldade** |
@@ -16,7 +21,7 @@ Este repositório é dedicado às **anotações de aula**, **resolução de exer
 | **[Fundamentos da Matemática](./Primeiro_Período/Fundamentos_da_Matematica/README.md)**                     | ⭐⭐⭐         |
 | **[Lógica e Matemática Discreta](./Primeiro_Período/Logica_e_Matematica_Discreta/README.md)**               | ⭐⭐         |
 | **[Métodos e Técnicas de Pesquisa](./Primeiro_Período/Metodos_e_Tecnicas_de_Pesquisa/README.md)**           | ⭐⭐           |
-| **[Fundamentos da Computação](./Primeiro_Período/Fundamentos_da_Computacao/README.md)**                     | ⭐⭐          |
+| **[Fundamentos da Computação](./Primeiro_Período/Fundamentos_da_Computacao/README.md)**                     | ⭐⭐⭐⭐          |
 | **[Extensão Universitária - Cidadania e Responsabilidade](./Primeiro_Período/Extensao_Universitaria_Cidadania_e_Responsabilidade/README.md)** | ⭐⭐          |
 
 
